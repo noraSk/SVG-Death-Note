@@ -1,7 +1,7 @@
 # dsgn270-a3
 ### Code journal
 - This is the moodboard that I made during class.
-- ![moodboard](moodboard.png)
+- ![moodboard](assets/images/moodboard.png)
 - I wanted to make an anime themed logo and after listing all of my favourite animes, death note was the easiest one to create.
 - I made a demo version of this logo during the breakout activities but the pen tool was off so I remade it.
 - With the old and not so nice design I experimented in figma by noticing which colors fit best.
